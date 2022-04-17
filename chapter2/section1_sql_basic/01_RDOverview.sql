@@ -9,7 +9,7 @@
 DBMS(Database Management System) : 데이터베이스 관리 시스탬
 RDBMS(Relational Database Management System) : 관계형 데이터베이스 관리 시스템
 
-2. SQL 
+2. SQL
 
 SQL(Structured Query Language) : 관계형 데이터베이스에서 데이터 정의, 데이터 조작, 데이터를 제어하기 위해 사용하는 언어.
   - SQL 문장들의 종류
